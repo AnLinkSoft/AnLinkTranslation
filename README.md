@@ -27,3 +27,7 @@ You can download a copy of `日本語.lang`, then replace the item after `=`.
 Thank you for the contribution
 ---
 > Our goal is to develop and publish high quality and user-friendly software that provides convenient experience for you.
+
+Contributors:
+---
+Japanese: AnLink Employee
