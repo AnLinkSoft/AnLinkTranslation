@@ -31,3 +31,4 @@ Thank you for the contribution
 Contributors:
 ---
 Japanese: AnLink Employee
+Chinese Simplified: @LuanJian
