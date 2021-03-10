@@ -31,4 +31,4 @@ Thank you for the contribution
 Contributors:
 ---
 Japanese: AnLink Employee  
-Chinese Simplified: [LuanJian](https://github.com/LuanJian)
+Chinese Simplified: [LuanJian](https://github.com/LuanJian) [FallenXtar](https://github.com/FallenXtar)
