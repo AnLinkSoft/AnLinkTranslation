@@ -32,3 +32,4 @@ Contributors:
 ---
 Japanese: AnLink Employee  
 Chinese Simplified: [LuanJian](https://github.com/LuanJian) [FallenXtar](https://github.com/FallenXtar)
+Traditional Chinese: [xnadnad](https://github.com/xnadnad)
