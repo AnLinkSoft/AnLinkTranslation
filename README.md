@@ -10,7 +10,7 @@ It's a free software you can operate your phone on PC.
 AnLink is inspired by scrcpy, specially thanks to https://github.com/Genymobile/scrcpy/tree/master/server .  
 Download it from https://anl.ink/ .
 
-How to submit a new language translation?
+How to make a new language translation?
 ---
 Language code(LangID) should be one of these items:
 ```
@@ -19,6 +19,11 @@ Language code(LangID) should be one of these items:
 Translation file name should be the language words in that language.  
 Eg: `日本語.lang` for Japanese, `LangID` should be `ja`.  
 Keep in mind some placeholders shouldn't be translated: `%s %d AnLink`.
+
+How to submit or correct translation?
+---
+Fork this repository and make a new pull request.
+AnLink will respect your contribution, and get agreement with you if integrating the translation in software package.
 
 Where's the template?
 ---
