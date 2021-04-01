@@ -20,14 +20,14 @@ Translation file name should be the language words in that language.
 Eg: `日本語.lang` for Japanese, `LangID` should be `ja`.  
 Keep in mind some placeholders shouldn't be translated: `%s %d AnLink`.
 
-How to submit or correct translation?
----
-Fork this repository and make a new pull request.
-AnLink will respect your contribution, and get agreement with you if integrating the translation in software package.
-
 Where's the template?
 ---
 You can download a copy of `日本語.lang`, then replace the item after `=`.
+
+How to submit or correct translation?
+---
+Fork this repository and make a new pull request.  
+AnLink will respect your contribution, and get agreement with you if integrating the translation in software package.
 
 Thank you for the contribution
 ---
