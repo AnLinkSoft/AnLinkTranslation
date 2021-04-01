@@ -31,5 +31,5 @@ Thank you for the contribution
 Contributors:
 ---
 Japanese: AnLink Employee  
-Chinese Simplified: [LuanJian](https://github.com/LuanJian) [FallenXtar](https://github.com/FallenXtar)  
+Chinese Simplified: [LuanJian](https://github.com/LuanJian) [FallenXtar](https://github.com/FallenXtar) [Crystal-RainSlide](https://github.com/Crystal-RainSlide)  
 Traditional Chinese: [xnadnad](https://github.com/xnadnad)
