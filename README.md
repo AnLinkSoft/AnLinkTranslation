@@ -38,6 +38,4 @@ Contributors:
 Japanese: AnLink Employee  
 Simplified Chinese: [LuanJian](https://github.com/LuanJian) [FallenXtar](https://github.com/FallenXtar) [Crystal-RainSlide](https://github.com/Crystal-RainSlide)  
 Traditional Chinese (zh-HK): [xnadnad](https://github.com/xnadnad) [nicolas-chan-42](https://github.com/nicolas-chan-42)  
-Traditional Chinese (zh-TW): [SiderealArt](https://github.com/SiderealArt)  
-
-[![Contributors Display](https://badges.pufler.dev/contributors/AnLinkSoft/AnLinkTranslation?size=50&padding=5&bots=true)](https://badges.pufler.dev)
+Traditional Chinese (zh-TW): [SiderealArt](https://github.com/SiderealArt)
