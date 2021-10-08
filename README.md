@@ -22,7 +22,7 @@ Keep in mind some placeholders shouldn't be translated: `%s %d AnLink`.
 
 Where's the template?
 ---
-You can download a copy of `日本語.lang`, then replace the item after `=`.
+You can download a copy of `template.lang`, then fill the item after `=`.
 
 How to submit or correct translation?
 ---
