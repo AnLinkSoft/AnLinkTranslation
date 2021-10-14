@@ -7,7 +7,6 @@ AnLink translation repository
 What's AnLink?
 ---
 It's a free software you can operate your phone on PC.  
-AnLink is inspired by scrcpy, specially thanks to https://github.com/Genymobile/scrcpy/tree/master/server .  
 Download it from https://anl.ink/ .
 
 How to make a new language translation?
