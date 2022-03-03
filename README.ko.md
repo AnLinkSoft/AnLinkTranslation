@@ -47,6 +47,7 @@ AnLink는 귀하의 기여를 존중하며 소프트웨어 패키지에 이 번�
 기고자:
 ---
 일본어: [winning-JP](https://github.com/winning-JP)  
+한국어: [Gulcham](https://twitter.com/Guruchandayo)   
 간체자 중국어: [LuanJian](https://github.com/LuanJian) [FallenXtar](https://github.com/FallenXtar) [Crystal-RainSlide](https://github.com/Crystal-RainSlide)  
 번체자 중국어(zh-HK): [xnadnad](https://github.com/xnadnad) [nicolas-chan-42](https://github.com/nicolas-chan-42)  
 번체자 중국어(zh-TW): [SiderealArt](https://github.com/SiderealArt)  
