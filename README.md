@@ -1,5 +1,5 @@
 # AnLinkTranslation
-### | English | [日本語](README.ja.md) | 
+### | English | [日本語](README.ja.md) | [한국어](README.ko.md) |
 
 What's this?
 ---
@@ -38,6 +38,7 @@ Thank you for the contribution
 Contributors:
 ---
 Japanese: [winning-JP](https://github.com/winning-JP)  
+Korean: [Gulcham](https://twitter.com/Guruchandayo)   
 Simplified Chinese: [LuanJian](https://github.com/LuanJian) [FallenXtar](https://github.com/FallenXtar) [Crystal-RainSlide](https://github.com/Crystal-RainSlide)  
 Traditional Chinese (zh-HK): [xnadnad](https://github.com/xnadnad) [nicolas-chan-42](https://github.com/nicolas-chan-42)  
 Traditional Chinese (zh-TW): [SiderealArt](https://github.com/SiderealArt)  
