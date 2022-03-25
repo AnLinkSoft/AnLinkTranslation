@@ -1,4 +1,5 @@
-﻿Help=Pomoć
+LangID=sr
+Help=Pomoć
 Waiting for connection=Čekam konekciju...
 Select your phone brand=Izaberite vaš brend telefona
 Next=Sledeće
@@ -119,7 +120,6 @@ Screenshot has been uploaded=Skrinšot otpremljen
 Pair=Upari
 Remember window size and position=Upamti veličinu i položaj prozora
 What's new=Šta ima novo
-LangID=
 Enable phone audio=Omogući zvuk sa telefona 
 System requirements=Sistemski zahtevi 
 Windows 10 20H1 and above=Windows 10 verzija 20H1 i iznad 

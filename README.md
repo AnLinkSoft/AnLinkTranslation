@@ -1,4 +1,5 @@
 # AnLinkTranslation
+### | English | [日本語](README.ja.md) | [한국어](README.ko.md) |
 
 What's this?
 ---
@@ -7,11 +8,11 @@ AnLink translation repository
 What's AnLink?
 ---
 It's a free software you can operate your phone on PC.  
-AnLink is inspired by scrcpy, specially thanks to https://github.com/Genymobile/scrcpy/tree/master/server .  
 Download it from https://anl.ink/ .
 
 How to make a new language translation?
 ---
+Download a copy of `template.lang`, then fill the item after `=`.  
 Language code(LangID) should be one of these items:
 ```
 'am', 'ar', 'bn', 'bg', 'ca', 'cs', 'da', 'de', 'el', 'en-GB', 'es', 'es-419', 'et', 'fi', 'fa', 'fil', 'fr', 'gu', 'hi', 'hr', 'hu', 'id', 'is', 'it', 'iw', 'ja', 'kn', 'ko', 'lt', 'lv', 'ml', 'mr', 'ms', 'nl', 'no', 'or', 'pl', 'pt-BR', 'pt-PT', 'ro', 'ru', 'sk', 'sl', 'sr', 'sv', 'sw', 'ta', 'te', 'th', 'tr', 'uk', 'ur', 'vi', 'zh-CN', 'zh-HK', 'zh-TW'
@@ -20,9 +21,10 @@ Translation file name should be the language words in that language.
 Eg: `日本語.lang` for Japanese, `LangID` should be `ja`.  
 Keep in mind some placeholders shouldn't be translated: `%s %d AnLink`.
 
-Where's the template?
+How to update the language file?
 ---
-You can download a copy of `日本語.lang`, then replace the item after `=`.
+Download this repository, then drag the language file which to be updated on the `Translation.exe`.  
+You will be able to edit the additional items in language file.
 
 How to submit or correct translation?
 ---
@@ -35,7 +37,9 @@ Thank you for the contribution
 
 Contributors:
 ---
-Japanese: AnLink Employee  
+Japanese: [winning-JP](https://github.com/winning-JP)  
+Korean: [Gulcham](https://twitter.com/Guruchandayo)   
 Simplified Chinese: [LuanJian](https://github.com/LuanJian) [FallenXtar](https://github.com/FallenXtar) [Crystal-RainSlide](https://github.com/Crystal-RainSlide)  
 Traditional Chinese (zh-HK): [xnadnad](https://github.com/xnadnad) [nicolas-chan-42](https://github.com/nicolas-chan-42)  
-Traditional Chinese (zh-TW): [SiderealArt](https://github.com/SiderealArt)
+Traditional Chinese (zh-TW): [SiderealArt](https://github.com/SiderealArt)  
+Serbian: [bzzrak](https://github.com/bzzrak)
