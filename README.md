@@ -1,5 +1,5 @@
 # AnLinkTranslation
-### | English | [日本語](README.ja.md) | [한국어](README.ko.md) | [中文](README.zh.md)
+### | English | [日本語](README.ja.md) | [한국어](README.ko.md) | [中文](README.zh.md) |
 
 What's this?
 ---
