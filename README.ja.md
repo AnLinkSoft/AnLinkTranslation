@@ -1,5 +1,5 @@
 # AnLinkTranslation 日本語翻訳版
-### | [English](README.md) | 日本語 | [한국어](README.ko.md) |
+### | [English](README.md) | 日本語 | [한국어](README.ko.md) | [中文](README.zh.md) |
 
 
 これは何ですか？
@@ -48,6 +48,7 @@ AnLink はあなたの貢献を尊重し、ソフトウェアパッケージに�
 ---
 日本語: [winning-JP](https://github.com/winning-JP)  
 韓国語: [Gulcham](https://twitter.com/Guruchandayo)   
+中国語: [Miku39sukida](https://github.com/Miku39sukida)   
 簡体字中国語: [LuanJian](https://github.com/LuanJian) [FallenXtar](https://github.com/FallenXtar) [Crystal-RainSlide](https://github.com/Crystal-RainSlide)  
 繁体字中国語(zh-HK): [xnadnad](https://github.com/xnadnad) [nicolas-chan-42](https://github.com/nicolas-chan-42)  
 繁体字中国語(zh-TW): [SiderealArt](https://github.com/SiderealArt)  
