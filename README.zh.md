@@ -8,7 +8,7 @@ AnLink翻译库
 什么是AnLink?
 ---
 这是一个免费软件，您可以在电脑上操作您的手机。
-从https://anl.ink/下载。
+从[https://anl.ink/](https://anl.ink/)下载。
 
 如何进行新的语言翻译？
 ---
